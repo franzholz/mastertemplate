@@ -1,0 +1,25 @@
+##
+## @package TYPO3
+## @subpackage mastertemplate
+## @version $Id$
+##
+
+# 2 oder 3-spaltiges Layout wählen in Abhängigkeit des Feldes "Layout" in den Seiteneigenschaften
+# 2 or 3-column layout controlled by the layout field in page properties
+[globalVar = TSFE:page|layout = 1]
+	// all normal
+[else]
+	page {
+		// just include a special CSS:
+		includeCSS {
+		        # this declaration to include these files in the t3d-export
+		        twocolumns = fileadmin/css/noright.css
+		        # and now overlay with a more flexible declaration:
+		        twocolumns = {$path}css/noright.css
+		}
+		// don't render right column
+		10.marks.RIGHT = TEXT
+		10.marks.RIGHT.value =
+	}
+[global]
+

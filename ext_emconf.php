@@ -12,7 +12,7 @@
 
 $EM_CONF[$_EXTKEY] = array(
 	'title' => 'Static Template for Websites',
-	'description' => 'This extension has been created from the master template provided by the NRW user group.',
+	'description' => 'This extension has been created using the master template provided by the NRW user group.',
 	'category' => 'fe',
 	'author' => 'Franz Holzinger',
 	'author_email' => 'franz@ttproducts.de',
@@ -32,8 +32,8 @@ $EM_CONF[$_EXTKEY] = array(
 	'version' => '0.0.1',
 	'constraints' => array(
 		'depends' => array(
-			'statictemplates' => '',
-			'typo3' => '4.4.0-4.4.99',
+			'typo3' => '4.4.0-4.5.99',
+			'statictemplates' => ''
 		),
 		'conflicts' => array(
 		),

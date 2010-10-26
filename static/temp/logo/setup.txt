@@ -1,0 +1,18 @@
+##
+## @package TYPO3
+## @subpackage mastertemplate
+## @version $Id$
+##
+
+temp.logo = COA
+temp.logo {
+    10 = IMAGE
+    10 {
+	#file = fileadmin/images/logo.gif
+	#file = {$path}/images/logo.gif
+	stdWrap.typolink.parameter = 1
+    }
+
+    #999 = TEXT
+    #999.value=logo
+}

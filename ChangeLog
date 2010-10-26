@@ -1,3 +1,7 @@
+2010-10-26 Franz Holzinger  <franz@ttproducts.de>
+
+	* add INSERT to static_template
+	* add folders with setups and constants to include
 
 2010-05-10 Franz Holzinger  <franz@ttproducts.de>
 

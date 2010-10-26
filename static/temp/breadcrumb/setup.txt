@@ -1,0 +1,21 @@
+##
+## @package TYPO3
+## @subpackage mastertemplate
+## @version $Id$
+##
+
+temp.breadcrumb = COA
+temp.breadcrumb {
+	10 = TEXT
+	10.value = Sie sind hier:&nbsp;
+	10.lang.en = Your Position:&nbsp;
+
+	20 = HMENU
+	20 {
+		special = rootline
+		special.range = 1|-1
+		1 = TMENU
+		1.NO = 1
+		1.NO.linkWrap = |&nbsp;&raquo;&nbsp; |*| |&nbsp;&raquo;&nbsp; |*| |
+	}
+}

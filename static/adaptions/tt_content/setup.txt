@@ -1,0 +1,42 @@
+##
+## @package TYPO3
+## @subpackage mastertemplate
+## @version $Id$
+##
+
+# target for links in actual installation:
+config.intTarget = _top
+# target for links not in actual installtion:
+config.extTarget = _blank
+
+# for sitemap/menus: no onBlur()
+tt_content.menu.20.default.1.noBlur = 1
+tt_content.menu.20.1.1.noBlur = 1
+tt_content.menu.20.2.1.noBlur = 1
+tt_content.menu.20.2.2.noBlur = 1
+tt_content.menu.20.2.3.noBlur = 1
+tt_content.menu.20.2.4.noBlur = 1
+tt_content.menu.20.4.1.noBlur = 1
+tt_content.menu.20.5.1.noBlur = 1
+tt_content.menu.20.6.1.noBlur = 1
+tt_content.menu.20.7.1.noBlur = 1
+tt_content.menu.20.7.2.noBlur = 1
+
+# additional pagelevels for sitemaps
+
+tt_content.menu.20.7.3 < tt_content.menu.20.7.2
+tt_content.menu.20.7.4 < tt_content.menu.20.7.2
+tt_content.menu.20.7.5 < tt_content.menu.20.7.2
+
+# redefine sitemap as unsorted list:
+
+tt_content.menu.20.2.wrap = <div class="sitemap">|</div>
+tt_content.menu.20.2.1.wrap = <ul>| </ul>
+tt_content.menu.20.2.1.NO.allWrap >
+tt_content.menu.20.2.1.NO.wrapItemAndSub = <li> | </li>
+tt_content.menu.20.2.2 < tt_content.menu.20.2.1
+tt_content.menu.20.2.3 < tt_content.menu.20.2.1
+tt_content.menu.20.2.4 < tt_content.menu.20.2.1
+tt_content.menu.20.2.5 < tt_content.menu.20.2.1
+tt_content.menu.20.2.6 < tt_content.menu.20.2.1
+tt_content.menu.20.2.7 < tt_content.menu.20.2.1

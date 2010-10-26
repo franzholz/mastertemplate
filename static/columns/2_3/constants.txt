@@ -1,0 +1,7 @@
+##
+## @package TYPO3
+## @subpackage mastertemplate
+## @version $Id$
+##
+
+content.defaultHeaderType = 1

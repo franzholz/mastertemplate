@@ -1,0 +1,4 @@
+.sidemenu ul li		{ display: block; margin:0px 5px; }
+.sidemenu ul li a	{ border-bottom: 1px dashed #808080; text-decoration: none; }
+.sidemenu ul li a:focus,
+.sidemenu ul li a:hover	{ border-bottom: 1px solid black; }

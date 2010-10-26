@@ -1,0 +1,4 @@
+.topmenu ul li		{ display: inline; margin:0px 5px; }
+.topmenu ul li a	{ border-bottom: 1px dashed #808080; text-decoration: none; }
+.topmenu ul li a:focus,
+.topmenu ul li a:hover	{ border-bottom: 1px solid black; }

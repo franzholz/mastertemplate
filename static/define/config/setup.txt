@@ -1,0 +1,81 @@
+##
+## @package TYPO3
+## @subpackage mastertemplate
+## @version $Id$
+##
+
+config {
+	doctype = xhtml_strict
+	doctypeSwitch = 1
+	xmlprologue = none
+	xhtml_cleaning = all
+
+	language = de
+#	locale_all = de_DE
+	htmlTag_langKey = de
+
+	#linkVars = L(0-2)
+	uniqueLinkVars = 1
+
+	spamProtectEmailAddresses = -3
+	spamProtectEmailAddresses_atSubst = <img src="at.gif" alt="@" />
+	#spamProtectEmailAddresses_lastDotSubst = &lt;dot&gt;
+
+	removeDefaultJS = external
+	#wandelte alle CSS in Files um
+	inlineStyle2TempFile = 1
+
+	#versuche sinnvolle Dateinamen bei generierten Bildern zu erzeugen (max. 40 Zeichen werden übernommen)
+	meaningfulTempFilePrefix = 40
+
+	#Kommentare ausblenden
+	disablePrefixComment = 1
+
+	disableImgBorderAttr = 1
+
+	// index_search nutzen?
+	#index_enable = 1
+
+	// aktivate dies nur, wenn redirection (.htaccess) aktiv ist
+	simulateStaticDocuments = 0
+	#simulateStaticDocuments_addTitle = 40
+	#simulateStaticDocuments_noTypeIfNoTitle = 1
+
+	#baseURL = http://domain/
+	#absRefPrefix = http://domain/
+
+	// nur zu debug-zwecken:
+	no_cache = 0
+	admPanel = 0
+}
+
+
+# Setting up the language variable "L" to be passed with links
+config.linkVars = L
+
+config.sys_language_uid = 0
+config.language = de
+config.locale_all = german
+
+# German language, sys_language.uid = 0
+[globalVar = GP:L = 0]
+
+# French language, sys_language.uid = 1
+[globalVar = GP:L = 1]
+config.sys_language_uid = 1
+config.language = fr
+config.locale_all = french
+
+# English language, sys_language.uid = 2
+[globalVar = GP:L = 2]
+config.sys_language_uid = 2
+config.language = en
+config.locale_all = english
+
+# Italian language, sys_language.uid = 3
+[globalVar = GP:L = 3]
+config.sys_language_uid = 3
+config.language = it
+config.locale_all = italian
+
+

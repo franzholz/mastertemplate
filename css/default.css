@@ -1,0 +1,17 @@
+*		{ padding:0px; margin:0px; }
+div 		{ border:1px solid blue; padding:2px; }
+
+.header 	{ background-image:url(...); background-color:#ffcccc; }
+.logo 		{ background-image:url(...); background-color:#ffccff; }
+.topmenu 	{ background-color:#ffffcc; }
+.breadcrumb 	{ background-color:#ffffcc; }
+.middle 	{ background-color:#ccffcc; }
+.left 		{ /*background-color:#ccffff;*/ float:left; width:200px; }
+.submenu 	{ /*background-color:#ccccff;*/ } 
+.right 		{ background-color:#ccffaa; float:right; width:200px; }
+.content	{ background-color:#aaffcc; margin: 0px 220px; }
+.footer 	{ background-color:#aaffaa; }
+.clear 		{ clear:both; }
+
+.content ol,
+.content ul	{ margin-left:20px; }

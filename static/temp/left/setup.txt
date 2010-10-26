@@ -1,0 +1,15 @@
+##
+## @package TYPO3
+## @subpackage mastertemplate
+## @version $Id$
+##
+
+temp.left = COA
+temp.left {
+	10 < temp.submenu
+	10.wrap = <div class="sidemenu">|</div>
+
+	20 < styles.content.getLeft
+	20.wrap = <div class="info">|</div>
+}
+

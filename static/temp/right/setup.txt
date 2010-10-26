@@ -1,0 +1,13 @@
+##
+## @package TYPO3
+## @subpackage mastertemplate
+## @version $Id$
+##
+
+temp.right = COA
+temp.right {
+	10 < styles.content.getRight
+
+	#999 = TEXT
+	#999.value=right
+}

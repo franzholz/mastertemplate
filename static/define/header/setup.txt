@@ -1,0 +1,34 @@
+##
+## @package TYPO3
+## @subpackage mastertemplate
+## @version $Id$
+##
+
+page {
+    includeCSS {
+        # and now overlay with a more flexible declaration:
+        default = {$path}css/default.css
+        submenu = {$path}css/submenu.css
+        mainmenu = {$path}css/mainmenu.css
+    }
+    headerData {
+    	#key = object
+
+    }
+    includeJS {
+    	#key = object
+    }
+    includeLibs {
+    	#key = object
+
+    }
+    meta {
+	#description = Beschreibung
+	#keywords = Keywords
+	#author = ich
+	#robots = index, follow
+	#MSSmartTagsPreventParsing = true
+	#imagetoolbar  = false
+    }
+    shortcutIcon = fileadmin/images/typo3.ico
+}

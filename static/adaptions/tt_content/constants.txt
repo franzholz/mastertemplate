@@ -1,0 +1,11 @@
+##
+## @package TYPO3
+## @subpackage mastertemplate
+## @version $Id$
+##
+
+# default target for links:
+PAGE_TARGET = _top
+# target for links in sitemap:
+content.pageFrameObj = _top
+
