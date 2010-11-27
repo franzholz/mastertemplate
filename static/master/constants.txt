@@ -1,0 +1,12 @@
+##
+## @package TYPO3
+## @subpackage mastertemplate
+## @version $Id$
+##
+
+
+mastertemplate {
+    # cat=plugin.mastertemplate//; type=string; label= path to the CSS files
+  path = EXT:mastertemplate
+}
+

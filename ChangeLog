@@ -1,3 +1,11 @@
+2010-11-27 Franz Holzinger  <franz@ttproducts.de>
+
+	* support for planned patch #16278 to use a hook for the INSERT into static_template
+	* activate the SUBMENU which is copied into temp.left
+	* comment out the tt_content improvements and the 2-3 columns switch by default
+	* use the constant mastertemplate.path instead of path
+	* add a default constants for editing with the Constants Editor
+
 2010-10-26 Franz Holzinger  <franz@ttproducts.de>
 
 	* add INSERT to static_template
