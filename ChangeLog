@@ -1,3 +1,7 @@
+2010-12-07 Franz Holzinger  <franz@ttproducts.de>
+
+	* Remove not needed master constants.txt, because this is part of the database record
+
 2010-11-27 Franz Holzinger  <franz@ttproducts.de>
 
 	* support for planned patch #16278 to use a hook for the INSERT into static_template
