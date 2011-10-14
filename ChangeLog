@@ -1,3 +1,6 @@
+2011-10-14 Franz Holzinger  <franz@ttproducts.de>
+	* detailed installation tutorial inside of the manual
+
 2010-12-07 Franz Holzinger  <franz@ttproducts.de>
 
 	* Remove not needed master constants.txt, because this is part of the database record
