@@ -11,7 +11,7 @@
 ########################################################################
 
 $EM_CONF[$_EXTKEY] = array(
-	'title' => 'Static Template for Websites',
+	'title' => 'Master Template',
 	'description' => 'This extension adds the master template provided by the NRW user group to the static templates.',
 	'category' => 'fe',
 	'author' => 'Franz Holzinger',
@@ -28,11 +28,11 @@ $EM_CONF[$_EXTKEY] = array(
 	'modify_tables' => '',
 	'clearCacheOnLoad' => 0,
 	'lockType' => '',
-	'author_company' => '',
-	'version' => '0.2.0',
+	'author_company' => 'jambage.com',
+	'version' => '0.2.1',
 	'constraints' => array(
 		'depends' => array(
-			'typo3' => '4.4.0-4.6.99',
+			'typo3' => '4.4.0-6.1.99',
 		),
 		'conflicts' => array(
 		),

@@ -10,11 +10,13 @@ config {
 	xmlprologue = none
 	xhtml_cleaning = all
 
-	language = de
-#	locale_all = de_DE
+	renderCharset = utf-8
+	additionalHeaders = Content-Type:text/html;charset=utf-8
+
 	htmlTag_langKey = de
 
-	#linkVars = L(0-2)
+	# Setting up the language variable "L" to be passed with links
+	linkVars = L
 	uniqueLinkVars = 1
 
 	spamProtectEmailAddresses = -3
@@ -44,35 +46,35 @@ config {
 	#baseURL = http://domain/
 	#absRefPrefix = http://domain/
 
-	// nur zu debug-zwecken:
+	// nur zu debug-Zwecken:
 	no_cache = 0
 	admPanel = 0
 }
 
 
-# Setting up the language variable "L" to be passed with links
-config.linkVars = L
 
+# German language
 config.sys_language_uid = 0
 config.language = de
 config.locale_all = german
+#	config.locale_all = de_DE
 
-# German language, sys_language.uid = 0
+# German language
 [globalVar = GP:L = 0]
 
-# French language, sys_language.uid = 1
+# French language
 [globalVar = GP:L = 1]
 config.sys_language_uid = 1
 config.language = fr
 config.locale_all = french
 
-# English language, sys_language.uid = 2
+# English language
 [globalVar = GP:L = 2]
 config.sys_language_uid = 2
 config.language = en
 config.locale_all = english
 
-# Italian language, sys_language.uid = 3
+# Italian language
 [globalVar = GP:L = 3]
 config.sys_language_uid = 3
 config.language = it
