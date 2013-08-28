@@ -1,3 +1,6 @@
+2013-08-28 Franz Holzinger  <franz@ttproducts.de>
+	* ready for TYPO3 6.2
+
 2013-06-22 Franz Holzinger  <franz@ttproducts.de>
 	* activate utf-8 as default encoding
 	* compatible with TYPO3 6.1
