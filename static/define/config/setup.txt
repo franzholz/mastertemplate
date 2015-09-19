@@ -80,4 +80,6 @@ config.sys_language_uid = 3
 config.language = it
 config.locale_all = italian
 
+[global]
+
 

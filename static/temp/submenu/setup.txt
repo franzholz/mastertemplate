@@ -20,7 +20,7 @@ temp.submenu {
 			}
 	    		ACT < .NO
 			ACT = 1
-			#ACT.ATagParams = class="menu_act_a"
+			ACT.ATagParams = class="menu_act_a"
 		}
 		2 < .1
 		3 < .1

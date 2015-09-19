@@ -53,7 +53,7 @@ page {
               table = tt_content
               select.orderBy = sorting
               select.where = colPos=0
-              select.languageField = sys_language_uid
+          #   select.languageField = sys_language_uid
           }
           RIGHT      < temp.right
           FOOTER     < temp.footer

@@ -3,17 +3,14 @@
 ########################################################################
 # Extension Manager/Repository config file for ext "mastertemplate".
 #
-# Auto generated 21-12-2011 11:36
 #
-# Manual updates:
-# Only the data in the array - everything else is removed by next
-# writing. "version" and "dependencies" must not be touched!
+# Manual updates
 ########################################################################
 
 $EM_CONF[$_EXTKEY] = array(
 	'title' => 'Master Template',
-	'description' => 'This extension adds the master template provided by the NRW user group to the static templates.',
-	'category' => 'fe',
+	'description' => 'This extension makes available the setup of the master template. Originally developed by the NRW user group.',
+	'category' => 'templates',
 	'author' => 'Franz Holzinger',
 	'author_email' => 'franz@ttproducts.de',
 	'shy' => '',
@@ -29,7 +26,7 @@ $EM_CONF[$_EXTKEY] = array(
 	'clearCacheOnLoad' => 0,
 	'lockType' => '',
 	'author_company' => 'jambage.com',
-	'version' => '0.2.2',
+	'version' => '0.2.4',
 	'constraints' => array(
 		'depends' => array(
 			'typo3' => '4.4.0-6.2.99',

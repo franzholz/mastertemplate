@@ -1,0 +1,188 @@
+﻿.. |img-3|      image:: ../../Images/manual_html_2d0df56f.png
+   :height: 170
+   :width: 669
+.. :align: left
+.. :border: 0
+.. :name: Grafik1
+
+.. |img-4|      image:: ../../Images/manual_html_m2986e6f2.png
+   :height: 102
+   :width: 669
+.. :align: left
+.. :border: 0
+.. :name: Grafik3
+
+.. |img-5|      image:: ../../Images/manual_html_62e0db56.png
+   :height: 135
+   :width: 669
+.. :align: left
+.. :border: 0
+.. :name: Grafik4
+
+.. |img-6|      image:: ../../Images/manual_html_159e02ca.png
+   :height: 246
+   :width: 669
+.. :align: left
+.. :border: 0
+.. :name: Grafik5
+
+.. |img-7|      image:: ../../Images/manual_html_m598f6289.png
+   :height: 148
+   :width: 669
+.. :align: left
+.. :border: 0
+.. :name: Grafik6
+
+.. |img-8|      image:: ../../Images/manual_html_me90474a.png
+   :height: 85
+   :width: 669
+.. :align: left
+.. :border: 0
+.. :name: Grafik7
+
+.. |img-9|      image:: ../../Images/manual_html_d94c782.png
+   :height: 280
+   :width: 669
+.. :align: left
+.. :border: 0
+.. :name: Grafik8
+
+.. |img-10|     image:: ../../Images/manual_html_m2f82912f.png
+   :height: 270
+   :width: 669
+.. :align: left
+.. :border: 0
+.. :name: Grafik9
+
+.. |img-11|     image:: ../../Images/manual_html_m412784a5.png
+   :height: 180
+   :width: 669
+.. :align: left
+.. :border: 0
+.. :name: Grafik10
+
+.. |img-12|     image:: ../../Images/manual_html_md6e5595.png
+   :height: 266
+   :width: 669
+.. :align: left
+.. :border: 0
+.. :name: Grafik11
+
+.. |img-13|     image:: ../../Images/manual_html_m59b646c3.png
+   :height: 144
+   :width: 669
+.. :align: left
+.. :border: 0
+.. :name: Grafik12
+
+.. |img-14|     image:: ../../Images/manual_html_m7d2ec8ff.png
+   :height: 124
+   :width: 669
+.. :align: left
+.. :border: 0
+.. :name: Grafik13
+
+.. |img-15|     image:: ../../Images/manual_html_35927deb.png
+   :height: 240
+   :width: 669
+.. :align: left
+.. :border: 0
+.. :name: Grafik14
+
+.. |img-16|     image:: ../../Images/manual_html_4a4cf0cb.png
+   :height: 253
+   :width: 669
+.. :align: left
+.. :border: 0
+.. :name: Grafik15
+
+.. |img-17|     image:: ../../Images/manual_html_c3d2361.png
+   :height: 167
+   :width: 669
+.. :align: left
+.. :border: 0
+.. :name: Grafik16
+
+.. |img-18|     image:: ../../Images/manual_html_1ea85547.png
+   :height: 248
+   :width: 669
+.. :align: left
+.. :border: 0
+.. :name: Grafik17
+
+.. |img-19|     image:: ../../Images/manual_html_7df39c5.png
+   :height: 249
+   :width: 669
+.. :align: left
+.. :border: 0
+.. :name: Grafik18
+
+.. |img-20|     image:: ../../Images/manual_html_m7b282ea0.png
+   :height: 149
+   :width: 669
+.. :align: left
+.. :border: 0
+.. :name: Grafik19
+
+.. |img-21|     image:: ../../Images/manual_html_m3a6b3e52.png
+   :height: 154
+   :width: 669
+.. :align: left
+.. :border: 0
+.. :name: Grafik20
+
+.. |img-22|     image:: ../../Images/manual_html_5aa8bdb.png
+   :height: 271
+   :width: 669
+.. :align: left
+.. :border: 0
+.. :name: Grafik21
+
+.. |img-23|     image:: ../../Images/manual_html_m7ec260f4.png
+   :height: 252
+   :width: 669
+.. :align: left
+.. :border: 0
+.. :name: Grafik26
+
+.. |img-24|     image:: ../../Images/manual_html_41369b78.png
+   :height: 261
+   :width: 669
+.. :align: left
+.. :border: 0
+.. :name: Grafik22
+
+.. |img-25|     image:: ../../Images/manual_html_m7ef94bbb.png
+   :height: 237
+   :width: 669
+.. :align: left
+.. :border: 0
+.. :name: Grafik23
+
+.. |img-26|     image:: ../../Images/manual_html_1d696c60.png
+   :height: 307
+   :width: 669
+.. :align: left
+.. :border: 0
+.. :name: Grafik24
+
+.. |img-27|     image:: ../../Images/manual_html_7167698c.png
+   :height: 192
+   :width: 669
+.. :align: left
+.. :border: 0
+.. :name: Grafik25
+
+.. |img-28|     image:: ../../Images/manual_html_m66eb4be4.png
+   :height: 92
+   :width: 669
+.. :align: left
+.. :border: 0
+.. :name: graphics10
+
+.. |img-29|     image:: ../../Images/manual_html_m50d44996.png
+   :height: 247
+   :width: 415
+.. :align: left
+.. :border: 0
+.. :name: Grafik27
