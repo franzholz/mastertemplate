@@ -1,3 +1,6 @@
+2015-09-29 Franz Holzinger  <franz@ttproducts.de>
+	* Support for TYPO3 7.4
+
 2015-09-19 Franz Holzinger  <franz@ttproducts.de>
 	* Comment out select.languageField in order to show the content in all languages
 	* bug fix: add float=left to the content div. Otherwise the text of the right column will be below the content.
