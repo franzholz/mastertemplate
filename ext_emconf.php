@@ -26,10 +26,10 @@ $EM_CONF[$_EXTKEY] = array(
 	'clearCacheOnLoad' => 0,
 	'lockType' => '',
 	'author_company' => 'jambage.com',
-	'version' => '0.3.0',
+	'version' => '0.3.1',
 	'constraints' => array(
 		'depends' => array(
-			'typo3' => '4.4.0-7.4.99',
+			'typo3' => '4.4.0-7.99.99',
 		),
 		'conflicts' => array(
 		),
