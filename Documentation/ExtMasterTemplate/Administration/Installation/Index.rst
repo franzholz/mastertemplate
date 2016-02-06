@@ -21,14 +21,34 @@ Installation
 1.) Install the extension 'mastertemplate' using the Extension
 Manager.
 
-|img-3|
+.. figure:: ../../Images/manual_install_extension.png
+   :height: 170
+   :width: 669
+.. :align: left
+.. :border: 0
+.. :name: Grafik1
 
-|img-4|
+
+
+.. figure:: ../../Images/manual_install_extension_2.png
+   :height: 102
+   :width: 669
+.. :align: left
+.. :border: 0
+.. :name: Grafik3
+
 
 2.) After the installation of mastertemplate you must make sure that
 the extension “CSS styled content” has been installed.
 
-|img-5| 3.) Create a new page using the Page Module.
+.. figure:: ../../Images/manual_css_styled_content.png
+   :height: 135
+   :width: 669
+.. :align: left
+.. :border: 0
+.. :name: Grafik4
+
+3.) Create a new page using the Page Module.
 
 |img-6|
 

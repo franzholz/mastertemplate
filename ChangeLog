@@ -1,3 +1,9 @@
+2016-02-06 Franz Holzinger  <franz@ttproducts.de>
+	* bug fix: make the images generated correctly by moving the Images folder into Documentation/ExtMasterTemplate/
+	* rename manual_html_2d0df56f.png into manual_install_extension.png
+	* rename manual_html_m2986e6f2.png into manual_install_extension_2.png
+	* rename manual_html_62e0db56.png into manual_css_styled_content.png
+
 2016-01-18 Franz Holzinger  <franz@ttproducts.de>
 	* expected to work until TYPO3 7.99
 

@@ -24,7 +24,7 @@ Language: en
 
 Keywords: forAdmins, forBeginners
 
-Copyright 2010-2014, Franz Holzinger, <franz@ttproducts.de>
+Copyright 2010-2016, Franz Holzinger, <franz@ttproducts.de>
 
 This document is published under the Open Content License
 
