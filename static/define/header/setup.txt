@@ -1,15 +1,15 @@
 ##
 ## @package TYPO3
 ## @subpackage mastertemplate
-## @version $Id$
+## @version $Id: setup.txt 39538 2010-10-26 19:47:47Z franzholz $
 ##
 
 page {
     includeCSS {
         # and now overlay with a more flexible declaration:
-        default = {$path}css/default.css
-        submenu = {$path}css/submenu.css
-        mainmenu = {$path}css/mainmenu.css
+        default = {$mastertemplate.path}css/default.css
+        submenu = {$mastertemplate.path}css/submenu.css
+        mainmenu = {$mastertemplate.path}css/mainmenu.css
     }
     headerData {
     	#key = object
