@@ -1,7 +1,6 @@
 ##
 ## @package TYPO3
 ## @subpackage mastertemplate
-## @version $Id: setup.txt 76685 2013-06-22 19:25:29Z franzholz $
 ##
 
 # 2 oder 3-spaltiges Layout wählen in Abhängigkeit des Feldes "Layout" in den Seiteneigenschaften

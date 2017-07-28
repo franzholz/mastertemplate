@@ -1,9 +1,14 @@
 ##
 ## @package TYPO3
 ## @subpackage mastertemplate
-## @version $Id: setup.txt 55778 2011-12-21 10:32:44Z franzholz $
 ##
 
+
+[compatVersion = 8.7.0]
+
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/static/adaptions/fluid_styled_content/setup.txt">
+
+[global]
 
 <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/static/temp/mainmenu/setup.txt">
 <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/static/temp/submenu/setup.txt">

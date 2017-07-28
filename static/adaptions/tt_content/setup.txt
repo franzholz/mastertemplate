@@ -1,7 +1,6 @@
 ##
 ## @package TYPO3
 ## @subpackage mastertemplate
-## @version $Id: setup.txt 39538 2010-10-26 19:47:47Z franzholz $
 ##
 
 # target for links in actual installation:

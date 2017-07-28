@@ -1,7 +1,6 @@
 ##
 ## @package TYPO3
 ## @subpackage mastertemplate
-## @version $Id: constants.txt 39538 2010-10-26 19:47:47Z franzholz $
 ##
 
 # default target for links:

@@ -1,15 +1,14 @@
 ##
 ## @package TYPO3
 ## @subpackage mastertemplate
-## @version $Id: setup.txt 39538 2010-10-26 19:47:47Z franzholz $
 ##
 
 temp.left = COA
 temp.left {
-	10 < temp.submenu
-	10.wrap = <div class="sidemenu">|</div>
+    10 < temp.submenu
+    10.wrap = <div class="sidemenu">|</div>
 
-	20 < styles.content.getLeft
-	20.wrap = <div class="info">|</div>
+    20 < styles.content.getLeft
+    20.wrap = <div class="info">|</div>
 }
 

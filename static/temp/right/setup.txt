@@ -1,13 +1,12 @@
 ##
 ## @package TYPO3
 ## @subpackage mastertemplate
-## @version $Id: setup.txt 39538 2010-10-26 19:47:47Z franzholz $
 ##
 
 temp.right = COA
 temp.right {
-	10 < styles.content.getRight
+    10 < styles.content.getRight
 
-	#999 = TEXT
-	#999.value=right
+    #999 = TEXT
+    #999.value=right
 }

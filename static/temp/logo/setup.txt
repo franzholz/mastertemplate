@@ -1,17 +1,16 @@
 ##
 ## @package TYPO3
 ## @subpackage mastertemplate
-## @version $Id: setup.txt 39538 2010-10-26 19:47:47Z franzholz $
 ##
 
 temp.logo = COA
 temp.logo {
-	10 = IMAGE
-	10 {
-		file = {$mastertemplate.path}/images/logo.gif
-		stdWrap.typolink.parameter = 1
-	}
+    10 = IMAGE
+    10 {
+        file = {$mastertemplate.path}/images/logo.gif
+        stdWrap.typolink.parameter = 1
+    }
 
-	#999 = TEXT
-	#999.value=logo
+    #999 = TEXT
+    #999.value=logo
 }

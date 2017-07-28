@@ -1,21 +1,20 @@
 ##
 ## @package TYPO3
 ## @subpackage mastertemplate
-## @version $Id: setup.txt 39538 2010-10-26 19:47:47Z franzholz $
 ##
 
 temp.breadcrumb = COA
 temp.breadcrumb {
-	10 = TEXT
-	10.value = Sie sind hier:&nbsp;
-	10.lang.en = Your Position:&nbsp;
+    10 = TEXT
+    10.value = Sie sind hier:&nbsp;
+    10.lang.en = Your Position:&nbsp;
 
-	20 = HMENU
-	20 {
-		special = rootline
-		special.range = 1|-1
-		1 = TMENU
-		1.NO = 1
-		1.NO.linkWrap = |&nbsp;&raquo;&nbsp; |*| |&nbsp;&raquo;&nbsp; |*| |
-	}
+    20 = HMENU
+    20 {
+        special = rootline
+        special.range = 1|-1
+        1 = TMENU
+        1.NO = 1
+        1.NO.linkWrap = |&nbsp;&raquo;&nbsp; |*| |&nbsp;&raquo;&nbsp; |*| |
+    }
 }

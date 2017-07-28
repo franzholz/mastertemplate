@@ -1,54 +1,52 @@
 ##
 ## @package TYPO3
 ## @subpackage mastertemplate
-## @version $Id: setup.txt 76685 2013-06-22 19:25:29Z franzholz $
 ##
 
 config {
-	doctype = xhtml_strict
-	doctypeSwitch = 1
-	xmlprologue = none
-	xhtml_cleaning = all
+    doctype = xhtml_strict
+    doctypeSwitch = 1
+    xmlprologue = none
+    xhtml_cleaning = all
 
-	renderCharset = utf-8
-	additionalHeaders = Content-Type:text/html;charset=utf-8
+    renderCharset = utf-8
+    additionalHeaders = Content-Type:text/html;charset=utf-8
 
-	htmlTag_langKey = de
+    htmlTag_langKey = de
 
-	# Setting up the language variable "L" to be passed with links
-	linkVars = L
-	uniqueLinkVars = 1
+    # Setting up the language variable "L" to be passed with links
+    linkVars = L
+    uniqueLinkVars = 1
 
-	spamProtectEmailAddresses = -3
-	spamProtectEmailAddresses_atSubst = <img src="at.gif" alt="@" />
-	#spamProtectEmailAddresses_lastDotSubst = &lt;dot&gt;
+    spamProtectEmailAddresses = -3
+    spamProtectEmailAddresses_atSubst = <img src="at.gif" alt="@" />
+    #spamProtectEmailAddresses_lastDotSubst = &lt;dot&gt;
 
-	removeDefaultJS = external
-	#wandelte alle CSS in Files um
-	inlineStyle2TempFile = 1
+    removeDefaultJS = external
+    #wandelte alle CSS in Files um
+    inlineStyle2TempFile = 1
 
-	#versuche sinnvolle Dateinamen bei generierten Bildern zu erzeugen (max. 40 Zeichen werden übernommen)
-	meaningfulTempFilePrefix = 40
+    #versuche sinnvolle Dateinamen bei generierten Bildern zu erzeugen (max. 40 Zeichen werden übernommen)
+    meaningfulTempFilePrefix = 40
 
-	#Kommentare ausblenden
-	disablePrefixComment = 1
+    #Kommentare ausblenden
+    disablePrefixComment = 1
 
-	disableImgBorderAttr = 1
+    disableImgBorderAttr = 1
 
-	// index_search nutzen?
-	#index_enable = 1
+    // index_search nutzen?
+    #index_enable = 1
 
-	// aktivate dies nur, wenn redirection (.htaccess) aktiv ist
-	simulateStaticDocuments = 0
-	#simulateStaticDocuments_addTitle = 40
-	#simulateStaticDocuments_noTypeIfNoTitle = 1
+    // aktivate dies nur, wenn redirection (.htaccess) aktiv ist
+    simulateStaticDocuments = 0
+    #simulateStaticDocuments_addTitle = 40
+    #simulateStaticDocuments_noTypeIfNoTitle = 1
 
-	#baseURL = http://domain/
-	#absRefPrefix = http://domain/
+    absRefPrefix = auto
 
-	// nur zu debug-Zwecken:
-	no_cache = 0
-	admPanel = 0
+    // nur zu debug-Zwecken:
+    no_cache = 0
+    admPanel = 0
 }
 
 

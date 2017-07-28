@@ -1,7 +1,6 @@
 ##
 ## @package TYPO3
 ## @subpackage mastertemplate
-## @version $Id: setup.txt 39538 2010-10-26 19:47:47Z franzholz $
 ##
 
 page {
@@ -23,12 +22,12 @@ page {
 
     }
     meta {
-	#description = Beschreibung
-	#keywords = Keywords
-	#author = ich
-	#robots = index, follow
-	#MSSmartTagsPreventParsing = true
-	#imagetoolbar  = false
+        #description = Beschreibung
+        #keywords = Keywords
+        #author = ich
+        #robots = index, follow
+        #MSSmartTagsPreventParsing = true
+        #imagetoolbar  = false
     }
     shortcutIcon = fileadmin/images/typo3.ico
 }

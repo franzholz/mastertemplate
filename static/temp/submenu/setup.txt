@@ -1,32 +1,31 @@
 ##
 ## @package TYPO3
 ## @subpackage mastertemplate
-## @version $Id: setup.txt 39538 2010-10-26 19:47:47Z franzholz $
 ##
 
 temp.submenu = COA
 temp.submenu {
-	10 = HMENU
-	10 {
-		#wrap = <div class="submenu"> | </div>
-		entryLevel = 1
-		1 = TMENU
-		1 {
-			expAll=1
-			noBlur = 1
-			wrap = <ul>| </ul>
-			NO {
-			    wrapItemAndSub = <li> | </li>
-			}
-	    		ACT < .NO
-			ACT = 1
-			ACT.ATagParams = class="menu_act_a"
-		}
-		2 < .1
-		3 < .1
-		4 < .1
-		5 < .1
-	}
+    10 = HMENU
+    10 {
+        #wrap = <div class="submenu"> | </div>
+        entryLevel = 1
+        1 = TMENU
+        1 {
+            expAll=1
+            noBlur = 1
+            wrap = <ul>| </ul>
+            NO {
+                wrapItemAndSub = <li> | </li>
+            }
+                ACT < .NO
+            ACT = 1
+            ACT.ATagParams = class="menu_act_a"
+        }
+        2 < .1
+        3 < .1
+        4 < .1
+        5 < .1
+    }
     #999 = TEXT
     #999.value=submenu
 }
