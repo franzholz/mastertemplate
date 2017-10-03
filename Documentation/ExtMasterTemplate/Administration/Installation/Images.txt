@@ -16,7 +16,7 @@
 .. :name: Grafik3
 
 
-.. |img-5|      image:: ../../Images/manual_css_styled_content.png
+.. |img-5|      image:: ../../Images/manual_fluid_styled_content.png
    :height: 135
    :width: 669
 .. :align: left

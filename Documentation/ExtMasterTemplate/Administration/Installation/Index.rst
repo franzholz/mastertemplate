@@ -18,7 +18,7 @@
 Installation
 ^^^^^^^^^^^^
 
-1.) Install the extension 'mastertemplate' using the Extension
+1.) Install the extension 'mastertemplate' from the Extension
 Manager.
 
 |img-3|
@@ -26,7 +26,7 @@ Manager.
 |img-4|
 
 2.) After the installation of mastertemplate you must make sure that
-the extension “CSS styled content” has been installed.
+the extension “Fluid Styled Content” (extension key: fluid_styled_content) has been installed.
 
 |img-5|
 

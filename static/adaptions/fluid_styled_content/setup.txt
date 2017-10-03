@@ -1,0 +1,9 @@
+styles.content {
+  getLeft < .get
+  getLeft.select.where = colPos = 1
+
+  getRight < .get
+  getRight.select.where = colPos = 2
+
+}
+

@@ -1,3 +1,8 @@
+2017-10-03 Franz Holzinger  <franz@ttproducts.de>
+    * add a composer.json file and an empty Class folder for future use
+    * add missing static/adaptions/fluid_styled_content/setup.txt to Git
+    * change the Documentation for the usage of Fluid Styled Content instead of the deprecated CSS Styled Content
+
 2017-07-28 Franz Holzinger  <franz@ttproducts.de>
 	* return to the documenation format to use the |img-no| placeholders and the Images.txt file
 	* remove the doc folder and its file manual.sxw

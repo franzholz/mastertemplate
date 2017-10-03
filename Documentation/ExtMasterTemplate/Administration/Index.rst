@@ -18,7 +18,7 @@
 Administration
 --------------
 
-The extension can be configured in the constants and setup.
+Your website must be configured in the constants and the setup.
 
 
 .. toctree::

@@ -1,0 +1,51 @@
+{
+  "name": "jambagecom/mastertemplate",
+  "type": "typo3-cms-extension",
+  "description": "This extension makes available the setup of the master template. Originally developed by the NRW user group.",
+  "keywords": [
+    "TYPO3",
+    "extension",
+    "template"
+  ],
+  "support": {
+    "issues": "https://github.com/franzholz/mastertemplate/issues"
+  },
+  "homepage": "https://jambage.com",
+  "authors": [
+    {
+      "name": "Franz Holzinger",
+      "role": "Developer",
+      "homepage": "http://ttproducts.de"
+    }
+  ],
+  "license": [
+    "GPL-2.0+"
+  ],
+  "require": {
+    "typo3/cms-core": ">=7.6.0,<8.99.99"
+  },
+  "autoload": {
+    "psr-4": {
+      "JambageCom\\Mastertemplate\\": "Classes"
+    }
+  },
+  "replace": {
+    "mastertemplate": "self.version",
+    "typo3-ter/mastertemplate": "self.version"
+  },
+  "config": {
+    "vendor-dir": ".Build/vendor",
+    "bin-dir": ".Build/bin",
+    "preferred-install": {
+      "typo3/cms": "source",
+      "typo3/cms-core": "source",
+      "*": "dist"
+    }
+  },
+  "extra": {
+    "typo3/cms": {
+      "cms-package-dir": "{$vendor-dir}/typo3/cms",
+      "web-dir": ".Build/Web"
+    }
+  }
+}
