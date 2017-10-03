@@ -34,7 +34,7 @@ the extension “Fluid Styled Content” (extension key: fluid_styled_content) h
 
 |img-6|
 
-|img-7| |img-8|
+|img-7| |img-8a| |img-8b|
 
 4.) Use the Template module (“Web->Template” extension “tstemplate”)
 in this and the following steps. Go to the top level page of your
@@ -48,16 +48,17 @@ homepage and add a new main template for a new site (press the button
 Edit the whole template record.
 
 Attention: Only the first template must have the root level checked.
-This must be unchecked on all afterwardly inserted sub templates. The
-same must be taken care for the checkboxes with the “Clear Constants,
+This must be unchecked on all afterwards inserted sub templates. The
+same must be taken care for with the “Clear Constants,
 Setup” checkboxes one line above.
 
-|img-11|
+|img-11a|
+
+|img-11b|
 
 |img-12|
 
-Make a test if you see the 'HELLO WORLD!' page in the FE. Clear all
-the caches.
+Change to the Page module. Click on your HOME page. Make a test if you see the 'HELLO WORLD!' page in the FE. Clear all the caches.
 
 |img-13|
 
@@ -75,7 +76,7 @@ should be completely removed.
 
 |img-14|
 
-5.) The “CSS Styled Content” must be included as the first element if
+5.) Click on the "Includes" tab. The “CSS Styled Content” must be included as the first element if
 you have more. If you have a site with already included statics from
 extensions, then you must use the arrows to move the “CSS Styled
 Content” to the top on the left list.
