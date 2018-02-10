@@ -1,3 +1,6 @@
+2018-02-10 Franz Holzinger  <franz@ttproducts.de>
+    * fix errors in the manual
+
 2017-10-03 Franz Holzinger  <franz@ttproducts.de>
     * add a composer.json file and an empty Class folder for future use
     * add missing static/adaptions/fluid_styled_content/setup.txt to Git

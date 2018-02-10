@@ -1,4 +1,5 @@
-﻿.. include:: Images.txt
+﻿.. include:: Includes.txt
+.. include:: Images.txt
 
 .. ==================================================
 .. FOR YOUR INFORMATION
@@ -9,35 +10,28 @@
 .. DEFINE SOME TEXTROLES
 .. --------------------------------------------------
 .. role::   underline
-.. role::   typoscript(code)
-.. role::   ts(typoscript)
-   :class:  typoscript
-.. role::   php(code)
 
 ====================
 EXT: Master Template
 ====================
 
 :Author:
-      Kasper Skårhøj
+      Franz Holzinger, created by NRW User Group
 
 :Created:
-      2010-09-01 32::0:0:
+      2007-09-08 32::0:0:
 
 :Changed by:
-      Holzinger Franz
+      Franz Holzinger
 
 :Changed:
-      2016-04-23 13::3:9:
+      2018-02-10 14::29:0:
 
 :Classification:
       mastertemplate
 
 :Keywords:
       forAdmins, forBeginners
-
-:Author:
-      Franz Holzinger
 
 :Email:
       franz@ttproducts.de
