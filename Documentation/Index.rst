@@ -25,7 +25,7 @@ EXT: Master Template
       Franz Holzinger
 
 :Changed:
-      2018-02-10 14::29:0:
+      2018-06-24 19::29:0:
 
 :Classification:
       mastertemplate

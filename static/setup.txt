@@ -12,7 +12,6 @@
 
 <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/static/temp/mainmenu/setup.txt">
 <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/static/temp/submenu/setup.txt">
-
 <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/static/temp/breadcrumb/setup.txt">
 <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/static/temp/footer/setup.txt">
 <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/static/temp/left/setup.txt">

@@ -8,12 +8,11 @@ div {
 }
 
 .header {
-	background-image:url(...);
 	background-color:#ffcccc;
 }
 
 .logo {
-	background-image:url(...);
+	background-image:url("/typo3conf/ext/mastertemplate/images/background-logo.gif");
 	background-color:#ffccff;
 }
 
