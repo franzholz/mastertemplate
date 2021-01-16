@@ -12,8 +12,6 @@ config {
     renderCharset = utf-8
     additionalHeaders = Content-Type:text/html;charset=utf-8
 
-    htmlTag_langKey = de
-
     # Setting up the language variable "L" to be passed with links
     linkVars = L
     uniqueLinkVars = 1
@@ -55,28 +53,33 @@ config {
 config.sys_language_uid = 0
 config.language = de
 config.locale_all = german
+config.htmlTag_langKey = de
+
 #	config.locale_all = de_DE
 
 # German language
-[globalVar = GP:L = 0]
+[siteLanguage("twoLetterIsoCode") == "de"]
 
 # French language
-[globalVar = GP:L = 1]
+[siteLanguage("twoLetterIsoCode") == "fr"]
 config.sys_language_uid = 1
 config.language = fr
 config.locale_all = french
+config.htmlTag_langKey = fr
 
 # English language
-[globalVar = GP:L = 2]
+[siteLanguage("twoLetterIsoCode") == "en"]
 config.sys_language_uid = 2
 config.language = en
 config.locale_all = english
+config.htmlTag_langKey = en
 
 # Italian language
-[globalVar = GP:L = 3]
+[siteLanguage("twoLetterIsoCode") == "it"]
 config.sys_language_uid = 3
 config.language = it
 config.locale_all = italian
+config.htmlTag_langKey = it
 
 [global]
 
