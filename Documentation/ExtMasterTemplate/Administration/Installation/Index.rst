@@ -132,13 +132,13 @@ The constants shall be like this:
 
 ::
 
-   <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/static/constants.txt">
+   <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/Configuration/TypoScript/constants.txt">
 
 The setup shall contain this line on the top:
 
 ::
 
-   <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/static/setup.txt">
+   <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/Configuration/TypoScript/setup.txt">
 
 |img-25|
 

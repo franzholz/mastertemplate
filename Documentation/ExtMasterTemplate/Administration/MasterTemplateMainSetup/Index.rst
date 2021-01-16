@@ -31,8 +31,8 @@ Constants
    
    PAGE_TARGET = _top
    
-   # <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/static/adaptions/tt_content/constants.txt">
-   # <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/static/columns/2_3/constants.txt">
+   # <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/Configuration/TypoScript/adaptions/tt_content/constants.txt">
+   # <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/Configuration/TypoScript/columns/2_3/constants.txt">
 
 
 Setup
@@ -40,21 +40,21 @@ Setup
 
 ::
 
-   <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/static/temp/mainmenu/setup.txt">
-   <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/static/temp/submenu/setup.txt">
+   <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/Configuration/TypoScript/temp/mainmenu/setup.txt">
+   <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/Configuration/TypoScript/temp/submenu/setup.txt">
    
-   <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/static/temp/breadcrumb/setup.txt">
-   <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/static/temp/footer/setup.txt">
-   <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/static/temp/left/setup.txt">
-   <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/static/temp/logo/setup.txt">
-   <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/static/temp/right/setup.txt">
+   <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/Configuration/TypoScript/temp/breadcrumb/setup.txt">
+   <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/Configuration/TypoScript/temp/footer/setup.txt">
+   <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/Configuration/TypoScript/temp/left/setup.txt">
+   <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/Configuration/TypoScript/temp/logo/setup.txt">
+   <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/Configuration/TypoScript/temp/right/setup.txt">
    
-   <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/static/define/config/setup.txt">
-   <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/static/define/header/setup.txt">
+   <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/Configuration/TypoScript/define/config/setup.txt">
+   <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/Configuration/TypoScript/define/header/setup.txt">
    
-   <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/static/adaptions/tt_content/setup.txt">
+   <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/Configuration/TypoScript/adaptions/tt_content/setup.txt">
    
-   <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/static/columns/2_3/setup.txt">
+   <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/Configuration/TypoScript/columns/2_3/setup.txt">
    
    
    page = PAGE
