@@ -6,7 +6,7 @@
 # 2 oder 3-spaltiges Layout wählen in Abhängigkeit des Feldes "Layout" in den Seiteneigenschaften
 # 2 or 3-column layout controlled by the layout field in page properties
 
-[globalVar = TSFE:page|layout = 2]
+[page["layout"] == 2]
 	page {
 		// just include a special CSS:
 		includeCSS {

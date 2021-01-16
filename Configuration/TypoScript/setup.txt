@@ -4,11 +4,7 @@
 ##
 
 
-[compatVersion = 8.7.0]
-
 <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/Configuration/TypoScript/adaptions/fluid_styled_content/setup.txt">
-
-[global]
 
 <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/Configuration/TypoScript/temp/mainmenu/setup.txt">
 <INCLUDE_TYPOSCRIPT: source="FILE: EXT:mastertemplate/Configuration/TypoScript/temp/submenu/setup.txt">

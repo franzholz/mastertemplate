@@ -5,7 +5,7 @@ call_user_func(function () {
 
     \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addStaticFile(
         'mastertemplate',
-        'Configuration/TypoScript/', 
+        'Configuration/TypoScript/',
         'Master Template Constants Editor'
     );
 });
