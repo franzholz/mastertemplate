@@ -1,5 +1,8 @@
+2021-01-21 Franz Holzinger  <franz@ttproducts.de>
+    * Support for ´TYPO3 10.x: replace INCLUDE_TYPOSCRIPT by @import
+
 2021-01-16 Franz Holzinger  <franz@ttproducts.de>
-    * Support for ´TYPO3 10.x. Only the new Symfony TypoScript conditions are supported since today.
+    * Support for TYPO3 10.x: Only the new Symfony TypoScript conditions are supported since today.
 
 2019-05-21 Franz Holzinger  <franz@ttproducts.de>
     * Support for ´TYPO3 9.x
