@@ -24,9 +24,6 @@ config {
     #wandelte alle CSS in Files um
     inlineStyle2TempFile = 1
 
-    #versuche sinnvolle Dateinamen bei generierten Bildern zu erzeugen (max. 40 Zeichen werden übernommen)
-    meaningfulTempFilePrefix = 40
-
     #Kommentare ausblenden
     disablePrefixComment = 1
 
@@ -34,11 +31,6 @@ config {
 
     // index_search nutzen?
     #index_enable = 1
-
-    // aktivate dies nur, wenn redirection (.htaccess) aktiv ist
-    simulateStaticDocuments = 0
-    #simulateStaticDocuments_addTitle = 40
-    #simulateStaticDocuments_noTypeIfNoTitle = 1
 
     absRefPrefix = auto
 

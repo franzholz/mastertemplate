@@ -1,3 +1,7 @@
+
+2021-01-28 Franz Holzinger  <franz@ttproducts.de>
+    * simulateStaticDocuments and meaningfulTempFilePrefix removed since TYPO3 7.6
+
 2021-01-21 Franz Holzinger  <franz@ttproducts.de>
     * Support for ´TYPO3 10.x: replace INCLUDE_TYPOSCRIPT by @import
     * Support for ´TYPO3 10.x: enable TEMPLATE and RECORDS by dependancy on extension modern-template-building 
