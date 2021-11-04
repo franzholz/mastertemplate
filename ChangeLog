@@ -1,3 +1,5 @@
+2021-10-30 Franz Holzinger  <franz@ttproducts.de>
+    * Compatibility for TYPO3 10.x: Remove the configuration setup. This must be done instead in the config.yaml file in the sites subfolder.
 
 2021-01-28 Franz Holzinger  <franz@ttproducts.de>
     * simulateStaticDocuments and meaningfulTempFilePrefix removed since TYPO3 7.6
