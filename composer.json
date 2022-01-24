@@ -22,7 +22,7 @@
     "GPL-2.0-or-later"
   ],
   "require": {
-    "typo3/cms-core": "^10.4",
+    "typo3/cms-core": "^10.4 || ^11.5",
     "bmack/modern-template-building": "^1.0"
   },
   "autoload": {
@@ -31,7 +31,7 @@
     }
   },
   "replace": {
-    "jambagecom/mastertemplate": "self.version"
+    "typo3-ter/mastertemplate": "self.version"
   },
   "extra": {
     "typo3/cms": {

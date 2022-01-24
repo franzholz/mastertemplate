@@ -1,3 +1,6 @@
+2022-01-24 Franz Holzinger  <franz@ttproducts.de>
+    * Support for TYPO3 11 and PHP 8
+
 2021-10-30 Franz Holzinger  <franz@ttproducts.de>
     * Compatibility for TYPO3 10.x: Remove the configuration setup. This must be done instead in the config.yaml file in the sites subfolder.
 
@@ -5,8 +8,8 @@
     * simulateStaticDocuments and meaningfulTempFilePrefix removed since TYPO3 7.6
 
 2021-01-21 Franz Holzinger  <franz@ttproducts.de>
-    * Support for ´TYPO3 10.x: replace INCLUDE_TYPOSCRIPT by @import
-    * Support for ´TYPO3 10.x: enable TEMPLATE and RECORDS by dependancy on extension modern-template-building 
+    * Support for TYPO3 10.x: replace INCLUDE_TYPOSCRIPT by @import
+    * Support for TYPO3 10.x: enable TEMPLATE and RECORDS by dependancy on extension modern-template-building 
     * see https://docs.typo3.org/c/typo3/cms-core/master/en-us/Changelog/9.5/Deprecation-85970-FileContentObject.html 
 
 2021-01-16 Franz Holzinger  <franz@ttproducts.de>
