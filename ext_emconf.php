@@ -18,11 +18,12 @@ $EM_CONF[$_EXTKEY] = [
     'createDirs' => '',
     'clearCacheOnLoad' => 0,
     'author_company' => 'jambage.com',
-    'version' => '0.5.2',
+    'version' => '0.5.3',
     'constraints' => [
         'depends' => [
             'typo3' => '10.4.0-11.5.99',
             'modern_template_building' => '1.0.1-1.0.99',
+            'patchlayout' => '0.1.0-0.1.99',
         ],
         'conflicts' => [
         ],

@@ -26,5 +26,5 @@ What does it do?
   <https://forum.typo3.org/index.php?t=msg&goto=225816&>`_
 
 - The constants and setup of the “Master Template” must be included
-  manually using include directives in the format `<INCLUDE_TYPOSCRIPT: source="..." >`.
+  manually using include directives in the format `@import '...' `.
 
