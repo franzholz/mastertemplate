@@ -74,7 +74,7 @@ Setup
        10 {
            template= FILE
    
-           template.file = {$mastertemplate.path}/html/mastertemplate.html
+           template.file = {$mastertemplate.path}/Resources/Private/Templates/mastertemplate.html
    
            workOnSubpart = DOCUMENT
    
