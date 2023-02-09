@@ -65,9 +65,9 @@ Setup
    
        includeCSS {
            # and now overlay with a more flexible declaration:
-           default = {$mastertemplate.path}/css/default.css
-           submenu = {$mastertemplate.path}/css/submenu.css
-           mainmenu = {$mastertemplate.path}/css/mainmenu.css
+           default = {$mastertemplate.path}/Resources/Public/Css/default.css
+           submenu = {$mastertemplate.path}/Resources/Public/Css/submenu.css
+           mainmenu = {$mastertemplate.path}/Resources/Public/Css/mainmenu.css
        }
    
        10 = TEMPLATE
