@@ -1,4 +1,7 @@
 2022-02-15 Franz Holzinger  <franz@ttproducts.de>
+    * Compatibility for TYPO3 11 and TYPO3 12: The extension patchlayout is required for the multiple columns.
+
+2022-02-15 Franz Holzinger  <franz@ttproducts.de>
     * Compatibility for TYPO3 10 and TYPO3 11: The extension patchlayout is required for the multiple columns.
 
 2022-01-24 Franz Holzinger  <franz@ttproducts.de>

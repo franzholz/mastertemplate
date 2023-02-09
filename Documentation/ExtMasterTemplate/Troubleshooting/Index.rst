@@ -18,7 +18,7 @@
 Troubleshooting
 ---------------
 
-You see no Front End output. You can an exception:
+You see no Front End output. You can get an exception:
 
 Uncaught TYPO3 Exception
 
