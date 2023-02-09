@@ -6,16 +6,16 @@
 # 2 oder 3-spaltiges Layout wählen in Abhängigkeit des Feldes "Layout" in den Seiteneigenschaften
 # 2 or 3-column layout controlled by the layout field in page properties
 
-[page["layout"] == 2]
+[tree.pagelayout == 2]
 	page {
 		// just include a special CSS:
 		includeCSS {
 		        # CSS for not having the right column
-		        twocolumns = {$mastertemplate.path}css/noright.css
+		        twocolumns = {$mastertemplate.path}/Resources/Public/Css/noright.css
 		}
 		// don't render right column
 		10.marks.RIGHT = TEXT
 		10.marks.RIGHT.value =
 	}
-[global]
+[end]
 
