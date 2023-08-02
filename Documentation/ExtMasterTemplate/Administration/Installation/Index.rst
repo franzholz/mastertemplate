@@ -132,13 +132,13 @@ The constants shall be like this:
 
 ::
 
-   @import 'EXT:mastertemplate/Configuration/TypoScript/constants.txt'
+   @import 'EXT:mastertemplate/Configuration/TypoScript/constants.typoscript'
 
 The setup shall contain this line on the top:
 
 ::
 
-   @import 'EXT:mastertemplate/Configuration/TypoScript/setup.txt'
+   @import 'EXT:mastertemplate/Configuration/TypoScript/setup.typoscript'
 
 |img-25|
 

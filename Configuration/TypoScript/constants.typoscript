@@ -10,7 +10,7 @@ mastertemplate.path = EXT:mastertemplate
 PAGE_TARGET = _top
 
 
-@import 'EXT:mastertemplate/Configuration/TypoScript/adaptions/tt_content/constants.txt'
+@import 'EXT:mastertemplate/Configuration/TypoScript/adaptions/tt_content/constants.typoscript'
 
-@import 'EXT:mastertemplate/Configuration/TypoScript/columns/2_3/constants.txt'
+@import 'EXT:mastertemplate/Configuration/TypoScript/columns/2_3/constants.typoscript'
 

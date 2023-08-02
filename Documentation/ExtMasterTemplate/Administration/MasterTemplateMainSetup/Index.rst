@@ -31,8 +31,8 @@ Constants
    
    PAGE_TARGET = _top
    
-   # @import 'EXT:mastertemplate/Configuration/TypoScript/adaptions/tt_content/constants.txt'
-   # @import 'EXT:mastertemplate/Configuration/TypoScript/columns/2_3/constants.txt'
+   # @import 'EXT:mastertemplate/Configuration/TypoScript/adaptions/tt_content/constants.typoscript'
+   # @import 'EXT:mastertemplate/Configuration/TypoScript/columns/2_3/constants.typoscript'
 
 
 Setup
@@ -40,21 +40,21 @@ Setup
 
 ::
 
-   @import 'EXT:mastertemplate/Configuration/TypoScript/temp/mainmenu/setup.txt'
-   @import 'EXT:mastertemplate/Configuration/TypoScript/temp/submenu/setup.txt'
+   @import 'EXT:mastertemplate/Configuration/TypoScript/temp/mainmenu/setup.typoscript'
+   @import 'EXT:mastertemplate/Configuration/TypoScript/temp/submenu/setup.typoscript'
    
-   @import 'EXT:mastertemplate/Configuration/TypoScript/temp/breadcrumb/setup.txt'
-   @import 'EXT:mastertemplate/Configuration/TypoScript/temp/footer/setup.txt'
-   @import 'EXT:mastertemplate/Configuration/TypoScript/temp/left/setup.txt'
-   @import 'EXT:mastertemplate/Configuration/TypoScript/temp/logo/setup.txt'
-   @import 'EXT:mastertemplate/Configuration/TypoScript/temp/right/setup.txt'
+   @import 'EXT:mastertemplate/Configuration/TypoScript/temp/breadcrumb/setup.typoscript'
+   @import 'EXT:mastertemplate/Configuration/TypoScript/temp/footer/setup.typoscript'
+   @import 'EXT:mastertemplate/Configuration/TypoScript/temp/left/setup.typoscript'
+   @import 'EXT:mastertemplate/Configuration/TypoScript/temp/logo/setup.typoscript'
+   @import 'EXT:mastertemplate/Configuration/TypoScript/temp/right/setup.typoscript'
    
-   @import 'EXT:mastertemplate/Configuration/TypoScript/define/config/setup.txt'
-   @import 'EXT:mastertemplate/Configuration/TypoScript/define/header/setup.txt'
+   @import 'EXT:mastertemplate/Configuration/TypoScript/define/config/setup.typoscript'
+   @import 'EXT:mastertemplate/Configuration/TypoScript/define/header/setup.typoscript'
    
-   @import 'EXT:mastertemplate/Configuration/TypoScript/adaptions/tt_content/setup.txt'
+   @import 'EXT:mastertemplate/Configuration/TypoScript/adaptions/tt_content/setup.typoscript'
    
-   @import 'EXT:mastertemplate/Configuration/TypoScript/columns/2_3/setup.txt'
+   @import 'EXT:mastertemplate/Configuration/TypoScript/columns/2_3/setup.typoscript'
    
    
    page = PAGE
