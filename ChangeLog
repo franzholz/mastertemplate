@@ -1,3 +1,6 @@
+2023-08-02 Franz Holzinger  <franz@ttproducts.de>
+    * Compatibility for TYPO3 12: rename all setup.txt and constants files with added typoscript file extension.
+
 2022-02-15 Franz Holzinger  <franz@ttproducts.de>
     * Compatibility for TYPO3 11 and TYPO3 12: The extension patchlayout is required for the multiple columns.
 
