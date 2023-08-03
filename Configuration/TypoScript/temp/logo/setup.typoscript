@@ -7,7 +7,7 @@ temp.logo = COA
 temp.logo {
     10 = IMAGE
     10 {
-        file = {$mastertemplate.path}/images/logo.gif
+        file = {$mastertemplate.path}/Resources/Public/Images/logo.gif
         stdWrap.typolink.parameter = 1
     }
 

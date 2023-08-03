@@ -12,7 +12,7 @@ div {
 }
 
 .logo {
-	background-image:url("/typo3conf/ext/mastertemplate/images/background-logo.gif");
+	background-image:url("/typo3conf/ext/mastertemplate/Resources/Public/Images/background-logo.gif");
 	background-color:#ffccff;
 }
 

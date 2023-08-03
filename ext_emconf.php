@@ -15,7 +15,6 @@ $EM_CONF[$_EXTKEY] = [
     'author_email' => 'franz@ttproducts.de',
     'state' => 'stable',
     'uploadfolder' => 0,
-    'createDirs' => '',
     'clearCacheOnLoad' => 0,
     'author_company' => 'jambage.com',
     'version' => '0.6.0',
