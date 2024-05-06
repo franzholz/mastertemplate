@@ -24,7 +24,7 @@
   "require": {
     "typo3/cms-core": "^11.5 || ^12.1",
     "bmack/modern-template-building": "^1.0",
-    "bugfix/patchlayout": "^0.1"
+    "bugfix/patchlayout": "^0.1 || ^0.2"
   },
   "autoload": {
     "psr-4": {

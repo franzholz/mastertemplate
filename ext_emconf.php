@@ -17,12 +17,12 @@ $EM_CONF[$_EXTKEY] = [
     'uploadfolder' => 0,
     'clearCacheOnLoad' => 0,
     'author_company' => 'jambage.com',
-    'version' => '0.6.0',
+    'version' => '0.6.1',
     'constraints' => [
         'depends' => [
             'typo3' => '11.5.0-12.4.99',
             'modern_template_building' => '1.0.1-1.1.99',
-            'patchlayout' => '0.1.0-0.1.99',
+            'patchlayout' => '0.1.0-0.2.99',
         ],
         'conflicts' => [
         ],
