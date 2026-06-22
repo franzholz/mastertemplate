@@ -1,3 +1,7 @@
+
+2026-06-22 Franz Holzinger  <franz@ttproducts.de>
+    * Compatibility for TYPO3 14
+
 2023-08-02 Franz Holzinger  <franz@ttproducts.de>
     * Compatibility for TYPO3 12: rename all setup.txt and constants files with added typoscript file extension.
 
@@ -18,8 +22,8 @@
 
 2021-01-21 Franz Holzinger  <franz@ttproducts.de>
     * Support for TYPO3 10.x: replace INCLUDE_TYPOSCRIPT by @import
-    * Support for TYPO3 10.x: enable TEMPLATE and RECORDS by dependancy on extension modern-template-building 
-    * see https://docs.typo3.org/c/typo3/cms-core/master/en-us/Changelog/9.5/Deprecation-85970-FileContentObject.html 
+    * Support for TYPO3 10.x: enable TEMPLATE and RECORDS by dependancy on extension modern-template-building
+    * see https://docs.typo3.org/c/typo3/cms-core/master/en-us/Changelog/9.5/Deprecation-85970-FileContentObject.html
 
 2021-01-16 Franz Holzinger  <franz@ttproducts.de>
     * Support for TYPO3 10.x: Only the new Symfony TypoScript conditions are supported since today.

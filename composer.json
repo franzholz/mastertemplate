@@ -22,12 +22,12 @@
     "GPL-2.0-or-later"
   ],
   "require": {
-    "typo3/cms-core": "^11.5 || ^12.0 || ^13.0",
-    "bmack/modern-template-building": "^1.0",
-    "bugfix/patchlayout": "^0.1 || ^0.2 || ^0.3"
+    "typo3/cms-core": "^12.0 || ^13.0 || ^14.0",
+    "bmack/modern-template-building": "^1.1",
+    "bugfix/patchlayout": "^0.2 || ^0.3 || ^0.4"
   },
   "autoload": {
-    "psr-4": {
+      "psr-4": {
       "JambageCom\\Mastertemplate\\": "Classes"
     }
   },
@@ -36,7 +36,11 @@
   },
   "extra": {
     "typo3/cms": {
-      "extension-key": "mastertemplate"
+      "extension-key": "mastertemplate",
+      "version": "0.6.3",
+      "Package": {
+          "providesPackages": {}
+      }
     }
   }
 }
